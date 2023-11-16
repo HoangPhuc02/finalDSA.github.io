@@ -1,0 +1,12 @@
+MB01;Airline;150;2
+MB02;Airline;150;1
+MB03;Airline;50;1
+MB04;Airline;50;0
+MB05;VIETJET;30;1
+MB06;Airline;50;0
+MB07;Airline;50;0
+MB08;Bamboo;50;0
+MB09;Bamboo;100;0
+MB10;Bamboo;80;0
+MB11;VIETJET;50;0
+MB12;VIETJET;100;0
